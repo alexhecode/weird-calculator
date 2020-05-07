@@ -88,6 +88,7 @@ function division() {
 // clear function
 function clear() {
         userInput.value = '';
+        outputResult('', '');
 }
 
 // assign function to click event listener
